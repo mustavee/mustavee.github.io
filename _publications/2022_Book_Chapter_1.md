@@ -1,7 +1,7 @@
 ---
 title: "Sensing and monitoring of smart transportation systems"
 collection: publications
-permalink: /publication/2022_Book_Chapter_1.md
+permalink: /publication/2022_Book_Chapter_1
 excerpt: 
 date: 2022-04-15
 venue: 'Advanced Structural Sensing and Monitoring Systems'

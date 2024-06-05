@@ -16,5 +16,15 @@ redirect_from:
 * Ph.D in Computer Engineering, University of Central Florida, 2024 (Expected)
 
   ## News
-
--[Dec. 2020] Our paper XYZ is accepted by the ABC. [pdf](http://mustavee.github.io/files/abc.pdf)
+-[Sep. 2023] Presented poster titled [ABCD](http://mustavee.github.io/files/abc.pdf) at FAV Summit 2023.
+-[May. 2023] Presented my research in ACC Workshop on Data Driven Dynamical Systems, San Diego California. 
+-[Apr. 2023] Our paper titled [ABCD](http://mustavee.github.io/files/abc.pdf) published in Journal of Intelligent Transportation Systems. 
+-[Mar. 2023] Our paper titled [ABCD](http://mustavee.github.io/files/abc.pdf) published in IEEE Transactions on Man, Cybernatics and Systems. 
+-[Aug. 2022] Passed my Candidacy exam!
+-[May. 2022] Our paper titled [ABCD](http://mustavee.github.io/files/abc.pdf) published in Nonlinear Dynamics. 
+-[Jan. 2022] Co-authored chapter titled [ABCD](http://mustavee.github.io/files/abc.pdf) in the book The Rise of Smart Cities available online.
+-[Dec. 2021] Graduated with MS in Civil Engineering at Smart Cities Track!
+-[Nov. 2021] Presented poster titled [ABCD](http://mustavee.github.io/files/abc.pdf) at FAV Summit 2021.
+-[Jan. 2021] Presented paper titled [ABCD](http://mustavee.github.io/files/abc.pdf) at TRB 2021 Virtual Conference.  
+-[Nov. 2019] Presented poster titled [ABCD](http://mustavee.github.io/files/abc.pdf) at FAV Summit 2019.
+-[Aug. 2019] Started my Ph.D. journey!

@@ -17,6 +17,8 @@ redirect_from:
 
 ## News
 
+-[Jan. 2024] Got awarded Graduate Dean’s Dissertation Completion Fellowship for Spring 2024!
+
 -[Sep. 2023] Presented [poster](http://mustavee.github.io/files/FAV23_Mustavee_Agarwal.pdf) titled **Quantifying Adaptiveness in Signalized Intersections: A Novel Fractal Analysis Approach** at FAV Summit 2023.
 
 -[May. 2023] Delivered a [talk](https://goswami78.github.io/ACC_2023_Workshop/mustavee.html) titled **Modeling Traffic Systems Using Data-Driven Dynamical Systems Perspective** in ACC 2023 : Workshop on Recent Developments in Data-Driven Methods for Dynamical Systems and Control, San Diego, California. 
@@ -37,5 +39,5 @@ redirect_from:
 
 -[Jan. 2021] Presented [poster](http://mustavee.github.io/files/TRBAM-21-034511-pages-2.pdf) titled **Exploring Dynamic Mode Decomposition for Robust System Identification: Applications to Adaptive Signalized Intersections** at TRB 100th Annual Meeting, Virtual Conference.  
 
--[Aug. 2019] Started my Ph.D. journey!
+-[Aug. 2019] Got awarded ORCGS Doctoral Fellowship for 2019-2020 academic year!
 

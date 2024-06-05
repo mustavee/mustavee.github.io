@@ -15,7 +15,8 @@ redirect_from:
 * M.S. in Civil Engineering, University of Central Florida, 2021
 * Ph.D in Computer Engineering, University of Central Florida, 2024 (Expected)
 
-  ## News
+## News
+
 -[Sep. 2023] Presented poster titled [ABCD](http://mustavee.github.io/files/abc.pdf) at FAV Summit 2023.
 
 -[May. 2023] Presented my research in ACC Workshop on Data Driven Dynamical Systems, San Diego California. 

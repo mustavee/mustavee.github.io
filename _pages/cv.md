@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[CV](http://mustavee.github.io/files/Shakib_Mustavee.pdf)
 {% include base_path %}
 
 Education

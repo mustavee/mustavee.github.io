@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Shakib-Mustavee.png"
+  avatar           : "images/Shakib-Mustavee.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Orlando, Florida"
+  employer         : "University of Central Florida"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "smustavee@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development

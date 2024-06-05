@@ -29,7 +29,7 @@ redirect_from:
 
 -[May. 2022] Our paper titled [A linear dynamical perspective on epidemiology: interplay between early COVID-19 outbreak and human mobility](https://link.springer.com/article/10.1007/s11071-022-07469-5) published in Nonlinear Dynamics. 
 
--[Jan. 2022] Co-authored chapter titled [Sensing and monitoring of smart transportation systems](https://www.sciencedirect.com/science/article/abs/pii/B9780128177846000102) in the book The Rise of Smart Cities available online.
+-[Jan. 2022] Co-authored chapter titled [Sensing and monitoring of smart transportation systems](https://www.sciencedirect.com/science/article/abs/pii/B9780128177846000102) in the book The Rise of Smart Cities. 
 
 -[Dec. 2021] Graduated with MS in Civil Engineering at Smart Cities Track!
 

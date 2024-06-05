@@ -19,7 +19,7 @@ redirect_from:
 
 -[Sep. 2023] Presented [poster]() titled **Quantifying Adaptiveness in Signalized Intersections: A Novel Fractal Analysis Approach** at FAV Summit 2023.
 
--[May. 2023] Delivered a talk titled **Modeling Traffic Systems Using Data-Driven Dynamical Systems Perspective** in ACC 2023 : Workshop on Recent Developments in Data-Driven Methods for Dynamical Systems and Control, San Diego, California. 
+-[May. 2023] Delivered a [talk](https://goswami78.github.io/ACC_2023_Workshop/mustavee.html) titled **Modeling Traffic Systems Using Data-Driven Dynamical Systems Perspective** in ACC 2023 : Workshop on Recent Developments in Data-Driven Methods for Dynamical Systems and Control, San Diego, California. 
 
 -[Apr. 2023] Our [paper](https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2205022) titled **Dynamic mode decomposition type algorithms for modeling and predicting queue lengths at signalized intersections with short lookback** published in Journal of Intelligent Transportation Systems. 
 
@@ -29,7 +29,7 @@ redirect_from:
 
 -[May. 2022] Our [paper](https://link.springer.com/article/10.1007/s11071-022-07469-5) titled **A linear dynamical perspective on epidemiology: interplay between early COVID-19 outbreak and human mobility** published in Nonlinear Dynamics. 
 
--[Jan. 2022] Co-authored [chapter](https://www.sciencedirect.com/science/article/abs/pii/B9780128177846000102) titled **Sensing and monitoring of smart transportation systems** in the book **The Rise of Smart Cities**. 
+-[Apr. 2022] Co-authored [chapter](https://www.sciencedirect.com/science/article/abs/pii/B9780128177846000102) titled **Sensing and monitoring of smart transportation systems** in the book **The Rise of Smart Cities**. 
 
 -[Dec. 2021] Graduated with MS in Civil Engineering at Smart Cities Track!
 

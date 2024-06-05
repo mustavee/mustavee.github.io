@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/gta
 venue: "UCF Department of Civil, Environmental and Construction Engineering"
+date: 2023-05-01
 location: "Orlando, FL"
 ---
 My primary responsibility was to assist students with homeworks and assignments along with grading. 

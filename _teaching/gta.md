@@ -1,3 +1,11 @@
+---
+title: "Graduate Teaching Assistant"
+collection: teaching
+type: "Undergraduate Course"
+permalink: /teaching/gta
+venue: "UCF Department of Civil, Environmental and Construction Engineering"
+location: "Orlando, FL"
+---
 1. TTE4300 Transportation Analytics [Spring 2021]
 
 2. CGN3405 Applied Numerical Methods for Civil Engineering [Spring 2021]

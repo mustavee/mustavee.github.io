@@ -21,15 +21,15 @@ redirect_from:
 
 -[May. 2023] Presented my research in ACC Workshop on Data Driven Dynamical Systems, San Diego California. 
 
--[Apr. 2023] Our paper titled [ABCD](http://mustavee.github.io/files/abc.pdf) published in Journal of Intelligent Transportation Systems. 
+-[Apr. 2023] Our paper titled [Dynamic mode decomposition type algorithms for modeling and predicting queue lengths at signalized intersections with short lookback](https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2205022) published in Journal of Intelligent Transportation Systems. 
 
--[Mar. 2023] Our paper titled [ABCD](http://mustavee.github.io/files/abc.pdf) published in IEEE Transactions on Man, Cybernatics and Systems. 
+-[Mar. 2023] Our paper titled [Koopman-Theoretic Modeling of Quasiperiodically Driven Systems: Example of Signalized Traffic Corridor](https://ieeexplore.ieee.org/abstract/document/10070591) published in IEEE Transactions on Systems, Man, and Cybernetics: Systems. 
 
 -[Aug. 2022] Passed my Candidacy exam!
 
--[May. 2022] Our paper titled [ABCD](http://mustavee.github.io/files/abc.pdf) published in Nonlinear Dynamics. 
+-[May. 2022] Our paper titled [A linear dynamical perspective on epidemiology: interplay between early COVID-19 outbreak and human mobility](https://link.springer.com/article/10.1007/s11071-022-07469-5) published in Nonlinear Dynamics. 
 
--[Jan. 2022] Co-authored chapter titled [ABCD](http://mustavee.github.io/files/abc.pdf) in the book The Rise of Smart Cities available online.
+-[Jan. 2022] Co-authored chapter titled [Sensing and monitoring of smart transportation systems](https://www.sciencedirect.com/science/article/abs/pii/B9780128177846000102) in the book The Rise of Smart Cities available online.
 
 -[Dec. 2021] Graduated with MS in Civil Engineering at Smart Cities Track!
 

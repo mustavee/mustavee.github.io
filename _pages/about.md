@@ -17,9 +17,9 @@ redirect_from:
 
 ## News
 
--[Sep. 2023] Presented poster titled [ABCD](http://mustavee.github.io/files/abc.pdf) at FAV Summit 2023.
+-[Sep. 2023] Presented [poster]() titled **Quantifying Adaptiveness in Signalized Intersections: A Novel Fractal Analysis Approach** at FAV Summit 2023.
 
--[May. 2023] Presented my research in ACC Workshop on Data Driven Dynamical Systems, San Diego California. 
+-[May. 2023] Delivered a talk titled **Modeling Traffic Systems Using Data-Driven Dynamical Systems Perspective** in ACC 2023 : Workshop on Recent Developments in Data-Driven Methods for Dynamical Systems and Control, San Diego, California. 
 
 -[Apr. 2023] Our [paper](https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2205022) titled **Dynamic mode decomposition type algorithms for modeling and predicting queue lengths at signalized intersections with short lookback** published in Journal of Intelligent Transportation Systems. 
 
@@ -33,11 +33,11 @@ redirect_from:
 
 -[Dec. 2021] Graduated with MS in Civil Engineering at Smart Cities Track!
 
--[Nov. 2021] Presented poster titled [ABCD](http://mustavee.github.io/files/abc.pdf) at FAV Summit 2021.
+-[Nov. 2021] Presented [poster]() titled **Smart Arterial Management: Stable and Long-term Prediction of Intersection Queue lengths** at FAV Summit 2021.
 
--[Jan. 2021] Presented paper titled [ABCD](http://mustavee.github.io/files/abc.pdf) at TRB 2021 Virtual Conference.  
+-[Jan. 2021] Presented [poster]() titled **Exploring Dynamic Mode Decomposition for Robust System Identification: Applications to Adaptive Signalized Intersections** at TRB 100th Annual Meeting, Virtual Conference.  
 
--[Nov. 2019] Presented poster titled [ABCD](http://mustavee.github.io/files/abc.pdf) at FAV Summit 2019.
+-[Nov. 2019] Presented [poster]() titled **Developing A Fault-tolerant Heterogeneous Sensor Fusion Methodology for Applications in Autonomous Mobility** at FAV Summit 2019.
 
 -[Aug. 2019] Started my Ph.D. journey!
 

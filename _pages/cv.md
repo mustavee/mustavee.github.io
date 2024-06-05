@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Civil Engineering (Major: Transportation), University of Central Florida, 2024 (expected)
+* M.S. in Civil Engineering, University of Central Florida, 2021
+* B.S. in Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology, 2017
 
 Work experience
 ======
@@ -47,18 +47,21 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!---
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+ --> 
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Service
 ======
-* Currently signed in to 43 different slack teams
+* Served as a reviewer in the following journals
+  * IEEE International Conference on Intelligent Transportation Systems
+  * Nonlinear Dynamics

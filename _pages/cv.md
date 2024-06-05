@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[CV](http://mustavee.github.io/files/Shakib_Mustavee.pdf)
+[Shakib Mustavee's CV](http://mustavee.github.io/files/Shakib_Mustavee.pdf)
 {% include base_path %}
 
 Education
@@ -15,24 +15,18 @@ Education
 * M.S. in Civil Engineering, University of Central Florida, 2021
 * B.S. in Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology, 2017
 
-<!---
+
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research Assistant (Fall 2019 - current)
+  * University of Central Florida
+  * Duties includes: Conducting research on data driven dynamical systems focused on traffic.
+  * Supervisor: Dr. Shaurya Agarwal
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Teaching Assistant (Spring 2021 - Spring 2023)
+  * University of Central Florida
+  * Duties included: Grading and Proctoring assignments and quizzes. 
 
-* Fall 2019: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  -->
   
 Skills
 ====== 

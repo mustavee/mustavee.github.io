@@ -15,6 +15,7 @@ Education
 * M.S. in Civil Engineering, University of Central Florida, 2021
 * B.S. in Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology, 2017
 
+<!---
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -27,19 +28,20 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* Fall 2019: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+  -->
   
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+====== 
+* Programming
+  * MATLAB
+  * Python
+  * C/C++
+* Simulation
+  * SUMO
 
 Publications
 ======
@@ -54,6 +56,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
  --> 
+ 
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}

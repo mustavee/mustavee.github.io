@@ -6,16 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
- I am a 5th year Ph.D. student in the **Department of Civil, Environmental and Construction Engineering** at the University of Central Florida (UCF). My advisor is [Dr. Shaurya Agarwal](https://www.cece.ucf.edu/person/shauryaagarwal/). 
+ I am a postdoctoral scholar in the **Department of Civil, Environmental and Construction Engineering** at the University of Central Florida (UCF). I am currently working with [Dr. Shaurya Agarwal](https://www.cece.ucf.edu/person/shauryaagarwal/) and [Dr. Arvind Singh](https://sites.google.com/site/singhsedtrans/home?authuser=0) 
 
- My research interests include application of data driven dynamical systems approach in modeling various real-world systems, such as, traffic dynamics of arterials and freeways. 
+My research interests include data-driven traffic flow modeling, uncovering underlying physical principles from traffic data, and analyzing traffic dynamics through the lens of complex systems theory. 
 
 ## Education
-* B.S. in Electrical and Electronics Engineering, Bangladesh University of Engineering and Technology, 2017
-* M.S. in Civil Engineering, University of Central Florida, 2021
-* Ph.D in Computer Engineering, University of Central Florida, 2024 (expected)
+* B.S. in Electrical and Electronics Engineering, Bangladesh University of Engineering and Technology, October 2017
+* M.S. in Civil Engineering, University of Central Florida, Fall 2021
+* Ph.D in Civil Engineering, University of Central Florida, Fall 2024 
 
 ## News
+-[Jan. 2025] Started as a post-doctoral scholar at University of Central Florida.
+
+-[Nov. 2024] Defended my dissertation and graduated!
+
+-[July. 2024] My two papers titled **An Extreme Value Theory Approach for Understanding Queue Length Dynamics in Adaptive Corridors** and **Self-Similar Characteristics in Queue Length Dynamics: Insights from Adaptive Signalized Corridor** got accepted in IEEE ITSC 2024. 
 
 -[Jan. 2024] Got awarded Graduate Dean’s Dissertation Completion Fellowship for Spring 2024!
 
@@ -39,5 +44,5 @@ redirect_from:
 
 -[Jan. 2021] Presented [poster](http://mustavee.github.io/files/TRBAM-21-034511-pages-2.pdf) titled **Exploring Dynamic Mode Decomposition for Robust System Identification: Applications to Adaptive Signalized Intersections** at TRB 100th Annual Meeting, Virtual Conference.  
 
--[Aug. 2019] Got awarded ORCGS Doctoral Fellowship for 2019-2020 academic year!
+-[Aug. 2019] Got awarded ORCGS Doctoral Fellowship for the 2019-2020 academic year!
 

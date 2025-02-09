@@ -13,7 +13,7 @@ My research interests include data-driven traffic flow modeling, uncovering unde
 ## Education
 * B.S. in Electrical and Electronics Engineering, Bangladesh University of Engineering and Technology, October 2017
 * M.S. in Civil Engineering, University of Central Florida, Fall 2021
-* Ph.D in Civil Engineering, University of Central Florida, Fall 2024 
+* Ph.D. in Civil Engineering, University of Central Florida, Fall 2024 
 
 ## News
 -[Jan. 2025] Started as a post-doctoral scholar at University of Central Florida.
